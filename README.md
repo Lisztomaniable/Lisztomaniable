@@ -1,4 +1,7 @@
-A programmer from China who is the most rookie.
+- A programmer from China who is the most rookie.
+- At now, My most familiar programming language is Python, I also have some knowledge of Java, C++, C……
+- I’m interested in many ways. For example, classical music, chemistry, traditional Chinese medicine diagnosis, especially pulse diagnosis.
+  · Classical Music: 
 
 - 👋 Hi, I’m @Lisztomaniable
 - 👀 I’m interested in ...
